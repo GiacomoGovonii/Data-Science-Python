@@ -1,4 +1,4 @@
-# ERC Remote Navigation Simulation
+# Data analysis
 
 This repository provides a Gazebo simulation of the Navigation and Science Task for the EuropeanRoverChallenge Remote competition. \
 For the dockerized version, skip to the [Using Docker](#using-docker) section.
@@ -25,14 +25,3 @@ The command mapping was set for the Xbox 360 controller and looks like this:
 | Right Joystick Left/Right | angular velocity                       |
 | A button                  | drop the next probe                    |
 | B button                  | despawn probes and reset probe counter |
-
-To modify it, you can edit the `joy_mapping.yaml` file inside the `leo_erc_teleop` package.
-
-## Using Docker
-
----
-**NOTE**
-
-All of the commands in this section should be executed as the `root` user, unless you have configured docker to be [managable as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/).
-
----
