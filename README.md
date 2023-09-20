@@ -38,3 +38,10 @@ The command mapping was set for the Xbox 360 controller and looks like this:
 | Yelp API                             | 'https://www.yelp.com/developers'                        | reviews, crowdsourcing              |
 
 
+## 2) Save the collected data set in an appropriate format for later analysis.
+
+## 3) Data preparation and analysis: 
+(a) Load the saved dataset into an appropriate data structure.
+(b) Apply any pre-processing steps that may be necessary to clean, filter, or transform the data set prior to analysis.
+(c) Analyze, characterize, and summarize the cleaned data set, using tables and visualizations as necessary.
+
